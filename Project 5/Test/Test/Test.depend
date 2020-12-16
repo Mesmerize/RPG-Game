@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1589281689 source:c:\users\wsw-_debug\desktop\cs10b\project 5\test\balrog.cpp
+	"creature.h"
+	"human.h"
+	"elf.h"
+	"demon.h"
+	"cyberdemon.h"
+	"balrog.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589272572 c:\users\wsw-_debug\desktop\cs10b\project 5\test\creature.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589272405 c:\users\wsw-_debug\desktop\cs10b\project 5\test\human.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589202719 c:\users\wsw-_debug\desktop\cs10b\project 5\test\elf.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589272321 c:\users\wsw-_debug\desktop\cs10b\project 5\test\demon.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589202727 c:\users\wsw-_debug\desktop\cs10b\project 5\test\cyberdemon.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589202741 c:\users\wsw-_debug\desktop\cs10b\project 5\test\balrog.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589281689 source:c:\users\wsw-_debug\desktop\cs10b\project 5\test\client.cpp
+	"creature.h"
+	"human.h"
+	"elf.h"
+	"demon.h"
+	"cyberdemon.h"
+	"balrog.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589268826 source:c:\users\wsw-_debug\desktop\cs10b\project 5\test\creature.cpp
+	"creature.h"
+	"human.h"
+	"elf.h"
+	"demon.h"
+	"cyberdemon.h"
+	"balrog.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589268213 source:c:\users\wsw-_debug\desktop\cs10b\project 5\test\cyberdemon.cpp
+	"creature.h"
+	"human.h"
+	"elf.h"
+	"demon.h"
+	"cyberdemon.h"
+	"balrog.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589272321 source:c:\users\wsw-_debug\desktop\cs10b\project 5\test\demon.cpp
+	"creature.h"
+	"human.h"
+	"elf.h"
+	"demon.h"
+	"cyberdemon.h"
+	"balrog.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589268213 source:c:\users\wsw-_debug\desktop\cs10b\project 5\test\elf.cpp
+	"creature.h"
+	"human.h"
+	"elf.h"
+	"demon.h"
+	"cyberdemon.h"
+	"balrog.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589272406 source:c:\users\wsw-_debug\desktop\cs10b\project 5\test\human.cpp
+	"creature.h"
+	"human.h"
+	"elf.h"
+	"demon.h"
+	"cyberdemon.h"
+	"balrog.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
